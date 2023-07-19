@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="map_api_key">AIzaSyAxbZ7sQaeFQyT5orFohoAoScjKLwKgjRg</string>
+    <string name="app_name">event_listing</string>
+    <string name="facebook_app_id">295167496193106</string>
+    <string name="fb_login_protocol_scheme">fb295167496193106</string>
+    <string name="facebook_client_token">76bcf16a706323298c686a4ce8655959</string>
+</resources>
